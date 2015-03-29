@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LastRestfulHope:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/LastRestfulHope_war_exploded.war</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LastRestfulHope/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LastRestfulHope" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
